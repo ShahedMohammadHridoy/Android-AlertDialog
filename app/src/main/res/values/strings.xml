@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alert Dialog</string>
+    <string name="press_back_button_to_see_alert_dialog">Press Back Button to see alert dialog</string>
+</resources>
